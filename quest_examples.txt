@@ -1,0 +1,2 @@
+http://localhost:50618/reporte/VisorListadoProducto.aspx?b=&p=t&al=0&tipo=7
+http://localhost:50618/reporte/VisorClientesporDiaFacturacion?id=eae9a4d3-2c10-4ffd-96fe-b411ef9cff5c&numero=1&TITULO=Clientes%20por%20D%C3%ADa%20de%20Facturaci%C3%B3n
